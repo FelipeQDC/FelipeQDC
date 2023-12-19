@@ -45,6 +45,7 @@ Sou um Estudante de Sistema da informação ⌨️
 <a href="https://github.com/FelipeQDC/MozillaTaskList_NodeJS">
   <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeQDC&repo=MozillaTaskList_NodeJS" />
 </a>
+
 #
 
 ### Linguagens
