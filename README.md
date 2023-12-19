@@ -12,7 +12,7 @@ Sou um Estudante de Sistema da informação ⌨️
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513991101180)
 
 # Portfolio:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/FelipeQDC/Angular-Animation-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeQDC&repo=Angular-Animation-Project" />
 </a>
 
